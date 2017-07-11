@@ -1,4 +1,4 @@
-×¼±¸¹¤×÷
-1¡¢ÏÂÔØpythonÏà¹Ø°ü£¨https:python.org£©×¢Òâ£ºpythonÁ½¸ö°æ±¾2.7ºÍ3.3 ²¿·ÖÓïÑÔ²»ÏàÈÝ£¬ÕâÀïÊ¹ÓÃ2.7
-2¡¢ÏÂÔØÍê³Éºó°²×°£¬ÅäÖÃºÃ»·¾³±äÁ¿,´ò¿ªcmd ÊäÈëpython Èç¹û°²×°ÕýÈ·»áÌáÊ¾°æ±¾
-3¡¢½¨ÒéÊ¹ÓÃnotepad++×öÎª±à¼­¹¤¾ß£¬²»ÒªÓÃword»ò¼ÇÊÂ±¾£¬¼ÇÊÂ±¾Ä¬ÈÏ»áÔÚÎÄ¼þ¿ªÊ¼µÄµØ·½¼ÓÉÏ¼¸¸öÌØÊâ×Ö·û£¬»áµ¼ÖÂÔËÐÐÊ§°Ü
+ï»¿å‡†å¤‡å·¥ä½œ
+1ã€ä¸‹è½½pythonç›¸å…³åŒ…ï¼ˆhttps:python.orgï¼‰æ³¨æ„ï¼špythonä¸¤ä¸ªç‰ˆæœ¬2.7å’Œ3.3 éƒ¨åˆ†è¯­è¨€ä¸ç›¸å®¹ï¼Œè¿™é‡Œä½¿ç”¨2.7
+2ã€ä¸‹è½½å®ŒæˆåŽå®‰è£…ï¼Œé…ç½®å¥½çŽ¯å¢ƒå˜é‡,æ‰“å¼€cmd è¾“å…¥python å¦‚æžœå®‰è£…æ­£ç¡®ä¼šæç¤ºç‰ˆæœ¬
+3ã€å»ºè®®ä½¿ç”¨notepad++åšä¸ºç¼–è¾‘å·¥å…·ï¼Œä¸è¦ç”¨wordæˆ–è®°äº‹æœ¬ï¼Œè®°äº‹æœ¬é»˜è®¤ä¼šåœ¨æ–‡ä»¶å¼€å§‹çš„åœ°æ–¹åŠ ä¸Šå‡ ä¸ªç‰¹æ®Šå­—ç¬¦ï¼Œä¼šå¯¼è‡´è¿è¡Œå¤±è´¥
